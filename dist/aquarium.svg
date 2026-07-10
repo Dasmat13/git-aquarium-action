@@ -1,0 +1,678 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 900 260" width="900" height="260"
+     style="border-radius:12px;overflow:hidden;background:#031c20">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#053040"/>
+      <stop offset="100%" stop-color="#021820"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#e6c875"/>
+      <stop offset="100%" stop-color="#8c774b"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Water -->
+  <rect width="900" height="260" fill="url(#water)"/>
+
+  <!-- Algae overlay if polluted -->
+  <rect width="900" height="260" fill="rgba(46,204,113,0.12)" style="mix-blend-mode:color-burn"/>
+
+  <!-- Sun Rays / Light shafts -->
+  <polygon points="150,0 220,0 380,260 250,260" fill="rgba(255,255,255,0.06)" />
+  <polygon points="500,0 600,0 750,260 600,260" fill="rgba(255,255,255,0.04)" />
+
+  <!-- Bubbles rising -->
+  
+      <circle class="bubble" cx="774" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="648" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.4s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="522" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.8s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="396" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.2000000000000002s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="270" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.6s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="144" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="18" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.4000000000000004s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="792" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.8000000000000003s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="666" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.2s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="540" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.6s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="414" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="288" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4.4s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="162" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4.800000000000001s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="36" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:5.2s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="810" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:5.6000000000000005s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="684" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="558" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.40000000000000036s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="432" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.8000000000000007s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="306" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.2000000000000002s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="180" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.6000000000000005s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="54" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="828" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.4000000000000004s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="702" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.8000000000000007s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="576" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.200000000000001s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="450" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.6000000000000014s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="324" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="198" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4.4s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="72" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:4.800000000000001s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="846" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:5.200000000000001s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="720" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:5.600000000000001s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="594" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="468" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.40000000000000036s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="342" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:0.8000000000000007s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="216" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.200000000000001s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="90" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:1.6000000000000014s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="864" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2s; animation-duration:7s"/>
+    
+
+      <circle class="bubble" cx="738" cy="235" r="2" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.4000000000000004s; animation-duration:4s"/>
+    
+
+      <circle class="bubble" cx="612" cy="235" r="3" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:2.8000000000000007s; animation-duration:5s"/>
+    
+
+      <circle class="bubble" cx="486" cy="235" r="4" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.200000000000001s; animation-duration:6s"/>
+    
+
+      <circle class="bubble" cx="360" cy="235" r="5" 
+        fill="rgba(255,255,255,0.25)" stroke="rgba(255,255,255,0.4)" stroke-width="0.5"
+        style="animation-delay:3.6000000000000014s; animation-duration:7s"/>
+    
+
+  <!-- Treasures on seabed -->
+  
+    <g transform="translate(146, 215) scale(1)" class="treasure">
+      <!-- Chest base -->
+      <rect x="-12" y="0" width="24" height="12" fill="#5a3825" rx="1" stroke="#3d2214" stroke-width="1"/>
+      <rect x="-10" y="2" width="20" height="2" fill="#d4af37"/>
+      <!-- Chest Lid -->
+      <path d="M -12,0 C -12,-8 12,-8 12,0 Z" fill="#5a3825" stroke="#3d2214" stroke-width="1"/>
+      <path d="M -10,-2 C -10,-6 10,-6 10,-2" fill="none" stroke="#d4af37" stroke-width="1"/>
+      <!-- Keyhole -->
+      <circle cx="0" cy="4" r="1.5" fill="#111"/>
+      <!-- Gold glow effect -->
+      <circle cx="0" cy="-2" r="6" fill="rgba(212, 175, 55, 0.4)" filter="url(#glow)"/>
+      <circle class="gold-sparkle" cx="-6" cy="-8" r="1" fill="#fff" />
+      <circle class="gold-sparkle" cx="6" cy="-10" r="1" fill="#fff" style="animation-delay:0.5s" />
+    </g>
+  
+  
+    <g transform="translate(192, 215) scale(0.9)" class="treasure">
+      <!-- Chest base -->
+      <rect x="-12" y="0" width="24" height="12" fill="#5a3825" rx="1" stroke="#3d2214" stroke-width="1"/>
+      <rect x="-10" y="2" width="20" height="2" fill="#d4af37"/>
+      <!-- Chest Lid -->
+      <path d="M -12,0 C -12,-8 12,-8 12,0 Z" fill="#5a3825" stroke="#3d2214" stroke-width="1"/>
+      <path d="M -10,-2 C -10,-6 10,-6 10,-2" fill="none" stroke="#d4af37" stroke-width="1"/>
+      <!-- Keyhole -->
+      <circle cx="0" cy="4" r="1.5" fill="#111"/>
+      <!-- Gold glow effect -->
+      <circle cx="0" cy="-2" r="6" fill="rgba(212, 175, 55, 0.4)" filter="url(#glow)"/>
+      <circle class="gold-sparkle" cx="-6" cy="-8" r="1" fill="#fff" />
+      <circle class="gold-sparkle" cx="6" cy="-10" r="1" fill="#fff" style="animation-delay:0.5s" />
+    </g>
+  
+
+  <!-- Corals & Plants -->
+  
+        <polygon class="sea-fan" points="8.653846153846153,223 -6.346153846153847,156 0.6538461538461533,144 8.653846153846153,151 16.653846153846153,144 23.653846153846153,156" fill="#e67e22" opacity="0.85" 
+          style="animation-delay:0.00s"/>
+      
+  
+        <g class="coral-plant" style="animation-delay:0.15s">
+          <!-- Main trunk -->
+          <line x1="25.96153846153846" y1="223" x2="25.96153846153846" y2="193" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 25.96153846153846,200.5 Q 13.96153846153846,185.5 15.96153846153846,163" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 25.96153846153846,193 Q 37.96153846153846,178 33.96153846153846,148" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="18.96153846153846" y1="178" x2="11.96153846153846" y2="170.5" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="31.96153846153846" y1="170.5" x2="37.96153846153846" y2="159.25" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+  
+        <polygon class="sea-fan" points="43.26923076923077,223 28.269230769230766,153 35.26923076923077,141 43.26923076923077,148 51.26923076923077,141 58.26923076923077,153" fill="#1abc9c" opacity="0.85" 
+          style="animation-delay:0.40s"/>
+      
+  
+        <polygon class="sea-fan" points="60.57692307692307,223 45.57692307692307,156 52.57692307692307,144 60.57692307692307,151 68.57692307692307,144 75.57692307692307,156" fill="#1abc9c" opacity="0.85" 
+          style="animation-delay:0.60s"/>
+      
+  
+        <g class="coral-plant" style="animation-delay:0.32s">
+          <circle cx="77.88461538461539" cy="217" r="7" fill="#e67e22"/>
+          <circle cx="73.88461538461539" cy="209" r="5" fill="#e67e22"/>
+          <circle cx="82.88461538461539" cy="205" r="4" fill="#e67e22"/>
+          <circle cx="77.88461538461539" cy="198" r="3" fill="#e67e22"/>
+        </g>
+      
+  
+        <path class="seaweed" d="M 95.19230769230768,223 Q 90.19230769230768,202 95.19230769230768,181 T 100.19230769230768,171" 
+          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:0.50s"/>
+      
+  
+        <path class="seaweed" d="M 112.5,223 Q 107.5,202 112.5,181 T 117.5,171" 
+          fill="none" stroke="#e74c3c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:0.60s"/>
+      
+  
+  
+        <polygon class="sea-fan" points="147.1153846153846,223 132.1153846153846,160 139.1153846153846,148 147.1153846153846,155 155.1153846153846,148 162.1153846153846,160" fill="#e74c3c" opacity="0.85" 
+          style="animation-delay:1.60s"/>
+      
+  
+  
+  
+  
+  
+        <g class="coral-plant" style="animation-delay:1.04s">
+          <circle cx="233.65384615384616" cy="217" r="7" fill="#1abc9c"/>
+          <circle cx="229.65384615384616" cy="209" r="5" fill="#1abc9c"/>
+          <circle cx="238.65384615384616" cy="205" r="4" fill="#1abc9c"/>
+          <circle cx="233.65384615384616" cy="198" r="3" fill="#1abc9c"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:1.12s">
+          <circle cx="250.96153846153845" cy="217" r="7" fill="#e67e22"/>
+          <circle cx="246.96153846153845" cy="209" r="5" fill="#e67e22"/>
+          <circle cx="255.96153846153845" cy="205" r="4" fill="#e67e22"/>
+          <circle cx="250.96153846153845" cy="198" r="3" fill="#e67e22"/>
+        </g>
+      
+  
+        <polygon class="sea-fan" points="268.2692307692307,223 253.26923076923072,160 260.2692307692307,148 268.2692307692307,155 276.2692307692307,148 283.2692307692307,160" fill="#9b59b6" opacity="0.85" 
+          style="animation-delay:3.00s"/>
+      
+  
+        <path class="seaweed" d="M 285.57692307692304,223 Q 280.57692307692304,207 285.57692307692304,191 T 290.57692307692304,181" 
+          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:1.60s"/>
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        <path class="seaweed" d="M 458.65384615384613,223 Q 453.65384615384613,207 458.65384615384613,191 T 463.65384615384613,181" 
+          fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:2.60s"/>
+      
+  
+        <path class="seaweed" d="M 475.9615384615384,223 Q 470.9615384615384,202 475.9615384615384,181 T 480.9615384615384,171" 
+          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:2.70s"/>
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        <g class="coral-plant" style="animation-delay:2.88s">
+          <circle cx="631.7307692307693" cy="217" r="7" fill="#9b59b6"/>
+          <circle cx="627.7307692307693" cy="209" r="5" fill="#9b59b6"/>
+          <circle cx="636.7307692307693" cy="205" r="4" fill="#9b59b6"/>
+          <circle cx="631.7307692307693" cy="198" r="3" fill="#9b59b6"/>
+        </g>
+      
+  
+        <polygon class="sea-fan" points="649.0384615384615,223 634.0384615384615,164 641.0384615384615,152 649.0384615384615,159 657.0384615384615,152 664.0384615384615,164" fill="#e67e22" opacity="0.85" 
+          style="animation-delay:7.40s"/>
+      
+  
+        <path class="seaweed" d="M 666.3461538461538,223 Q 661.3461538461538,207 666.3461538461538,191 T 671.3461538461538,181" 
+          fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:3.80s"/>
+      
+  
+        <g class="coral-plant" style="animation-delay:5.85s">
+          <!-- Main trunk -->
+          <line x1="683.6538461538462" y1="223" x2="683.6538461538462" y2="190.2" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 683.6538461538462,198.4 Q 671.6538461538462,182 673.6538461538462,157.39999999999998" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 683.6538461538462,190.2 Q 695.6538461538462,173.8 691.6538461538462,141" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="676.6538461538462" y1="173.8" x2="669.6538461538462" y2="165.6" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="689.6538461538462" y1="165.6" x2="695.6538461538462" y2="153.3" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:6.00s">
+          <!-- Main trunk -->
+          <line x1="700.9615384615385" y1="223" x2="700.9615384615385" y2="191.4" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 700.9615384615385,199.3 Q 688.9615384615385,183.5 690.9615384615385,159.8" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 700.9615384615385,191.4 Q 712.9615384615385,175.6 708.9615384615385,144" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="693.9615384615385" y1="175.6" x2="686.9615384615385" y2="167.7" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="706.9615384615385" y1="167.7" x2="712.9615384615385" y2="155.85000000000002" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:3.28s">
+          <circle cx="718.2692307692307" cy="217" r="7" fill="#e74c3c"/>
+          <circle cx="714.2692307692307" cy="209" r="5" fill="#e74c3c"/>
+          <circle cx="723.2692307692307" cy="205" r="4" fill="#e74c3c"/>
+          <circle cx="718.2692307692307" cy="198" r="3" fill="#e74c3c"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:3.36s">
+          <circle cx="735.5769230769231" cy="217" r="7" fill="#9b59b6"/>
+          <circle cx="731.5769230769231" cy="209" r="5" fill="#9b59b6"/>
+          <circle cx="740.5769230769231" cy="205" r="4" fill="#9b59b6"/>
+          <circle cx="735.5769230769231" cy="198" r="3" fill="#9b59b6"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:3.44s">
+          <circle cx="752.8846153846154" cy="217" r="7" fill="#1abc9c"/>
+          <circle cx="748.8846153846154" cy="209" r="5" fill="#1abc9c"/>
+          <circle cx="757.8846153846154" cy="205" r="4" fill="#1abc9c"/>
+          <circle cx="752.8846153846154" cy="198" r="3" fill="#1abc9c"/>
+        </g>
+      
+  
+  
+        <g class="coral-plant" style="animation-delay:3.60s">
+          <circle cx="787.5" cy="217" r="7" fill="#e67e22"/>
+          <circle cx="783.5" cy="209" r="5" fill="#e67e22"/>
+          <circle cx="792.5" cy="205" r="4" fill="#e67e22"/>
+          <circle cx="787.5" cy="198" r="3" fill="#e67e22"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:3.68s">
+          <circle cx="804.8076923076923" cy="217" r="7" fill="#e74c3c"/>
+          <circle cx="800.8076923076923" cy="209" r="5" fill="#e74c3c"/>
+          <circle cx="809.8076923076923" cy="205" r="4" fill="#e74c3c"/>
+          <circle cx="804.8076923076923" cy="198" r="3" fill="#e74c3c"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:7.05s">
+          <!-- Main trunk -->
+          <line x1="822.1153846153846" y1="223" x2="822.1153846153846" y2="192.2" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 822.1153846153846,199.9 Q 810.1153846153846,184.5 812.1153846153846,161.4" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 822.1153846153846,192.2 Q 834.1153846153846,176.8 830.1153846153846,146" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="815.1153846153846" y1="176.8" x2="808.1153846153846" y2="169.1" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="828.1153846153846" y1="169.1" x2="834.1153846153846" y2="157.55" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+  
+        <path class="seaweed" d="M 839.4230769230769,223 Q 834.4230769230769,207 839.4230769230769,191 T 844.4230769230769,181" 
+          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:4.80s"/>
+      
+  
+        <polygon class="sea-fan" points="856.7307692307692,223 841.7307692307692,160 848.7307692307692,148 856.7307692307692,155 864.7307692307692,148 871.7307692307692,160" fill="#e67e22" opacity="0.85" 
+          style="animation-delay:9.80s"/>
+      
+  
+        <g class="coral-plant" style="animation-delay:7.50s">
+          <!-- Main trunk -->
+          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="191.4" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 874.0384615384615,199.3 Q 862.0384615384615,183.5 864.0384615384615,159.8" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 874.0384615384615,191.4 Q 886.0384615384615,175.6 882.0384615384615,144" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="867.0384615384615" y1="175.6" x2="860.0384615384615" y2="167.7" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="880.0384615384615" y1="167.7" x2="886.0384615384615" y2="155.85000000000002" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+  
+        <g class="coral-plant" style="animation-delay:7.65s">
+          <!-- Main trunk -->
+          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="173" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 891.3461538461538,185.5 Q 879.3461538461538,160.5 881.3461538461538,123" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 891.3461538461538,173 Q 903.3461538461538,148 899.3461538461538,98" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="884.3461538461538" y1="148" x2="877.3461538461538" y2="135.5" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="897.3461538461538" y1="135.5" x2="903.3461538461538" y2="116.75" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+
+  <!-- Swimming fishes -->
+  
+      <g class="jellyfish" style="animation-duration:22s; animation-delay:0s; transform: translate(232px, 0px)">
+        <!-- Tentacles -->
+        <path class="tentacle" d="M -4,0 Q -6,15 -3,30" fill="none" stroke="rgba(186, 85, 211, 0.4)" stroke-width="1.5"/>
+        <path class="tentacle" d="M 0,0 Q 0,18 2,32" fill="none" stroke="rgba(238, 130, 238, 0.7)" stroke-width="1.5" style="animation-delay:0.3s"/>
+        <path class="tentacle" d="M 4,0 Q 6,15 3,30" fill="none" stroke="rgba(186, 85, 211, 0.4)" stroke-width="1.5" style="animation-delay:0.6s"/>
+        <!-- Bell / Body -->
+        <path d="M -8,0 C -8,-10 8,-10 8,0 Z" fill="rgba(238, 130, 238, 0.7)" filter="url(#glow)"/>
+      </g>
+    
+  
+    <g class="fish fish-swim" style="animation-duration:16s; animation-delay:1.5s; transform: scale(0.6)">
+      <!-- Tail fin -->
+      <path class="fish-tail" d="M -12,0 L -22,-8 L -18,0 L -22,8 Z" fill="#00d2ff"/>
+      <!-- Pectoral Fin -->
+      <path d="M -2,4 L -6,10 L -4,3 Z" fill="#00d2ff"/>
+      <!-- Body -->
+      <path d="M -12,0 C -6,-8 6,-8 14,0 C 6,8 -6,8 -12,0 Z" fill="#ffea00"/>
+      <!-- Stripes (for clownfish style) -->
+      
+        <path d="M -3,-5 L -3,5 M 4,-4 L 4,4" stroke="#ffffff" stroke-width="2.5"/>
+      
+      <!-- Eye -->
+      <circle cx="8" cy="-2" r="1.5" fill="#ffffff"/>
+      <circle cx="9" cy="-2" r="0.7" fill="#000000"/>
+    </g>
+  
+  
+    <g class="fish fish-swim" style="animation-duration:26s; animation-delay:3s; transform: scale(0.6)">
+      <!-- Tail fin -->
+      <path class="fish-tail" d="M -12,0 L -22,-8 L -18,0 L -22,8 Z" fill="#ffffff"/>
+      <!-- Pectoral Fin -->
+      <path d="M -2,4 L -6,10 L -4,3 Z" fill="#ffffff"/>
+      <!-- Body -->
+      <path d="M -12,0 C -6,-8 6,-8 14,0 C 6,8 -6,8 -12,0 Z" fill="#ff5f1f"/>
+      <!-- Stripes (for clownfish style) -->
+      
+      <!-- Eye -->
+      <circle cx="8" cy="-2" r="1.5" fill="#ffffff"/>
+      <circle cx="9" cy="-2" r="0.7" fill="#000000"/>
+    </g>
+  
+
+  <!-- Seabed / Sand -->
+  <path d="M 0,225 Q 225,217 450,225 T 900,225 L 900,260 L 0,260 Z" fill="url(#sand)"/>
+
+  <!-- HUD label -->
+  
+  <g>
+    <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
+    <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
+      🪸 Dasmat13's Aquarium · 385 commits
+    </text>
+  </g>
+  <g>
+    <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
+    <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
+      🐠 2 stars · 7d streak
+    </text>
+  </g>
+
+  <style>
+    /* Fish swimming from left to right (looping) */
+    .fish-swim {
+      animation: swim-r 12s linear infinite;
+      position: absolute;
+    }
+    @keyframes swim-r {
+      0%   { transform: translate(-100px, 100px) scale(0.8) scaleX(1); }
+      48%  { transform: translate(950px, 60px) scale(0.8) scaleX(1); }
+      /* Turn around and swim back left (subtle layering) */
+      50%  { transform: translate(950px, 60px) scale(0.8) scaleX(-1); }
+      98%  { transform: translate(-100px, 100px) scale(0.8) scaleX(-1); }
+      100% { transform: translate(-100px, 100px) scale(0.8) scaleX(1); }
+    }
+
+    /* Shark swimming (faster, deeper) */
+    .shark-swim {
+      animation: shark-r 20s linear infinite;
+    }
+    @keyframes shark-r {
+      0%   { transform: translate(-150px, 120px) scaleX(1); }
+      48%  { transform: translate(1050px, 150px) scaleX(1); }
+      50%  { transform: translate(1050px, 150px) scaleX(-1); }
+      98%  { transform: translate(-150px, 120px) scaleX(-1); }
+      100% { transform: translate(-150px, 120px) scaleX(1); }
+    }
+
+    /* Wiggling fish tail */
+    .fish-tail {
+      animation: wiggle 0.25s ease-in-out infinite alternate;
+      transform-origin: -12px 0px;
+    }
+    @keyframes wiggle {
+      from { transform: rotate(-8deg); }
+      to   { transform: rotate(8deg); }
+    }
+
+    /* Jellyfish bobbing and rising/falling */
+    .jellyfish {
+      animation: bob 8s ease-in-out infinite;
+      position: absolute;
+    }
+    @keyframes bob {
+      0%, 100% { transform: translate(300px, 40px); }
+      50%      { transform: translate(320px, 130px); }
+    }
+    .tentacle {
+      animation: wave-tentacle 1.5s ease-in-out infinite alternate;
+      transform-origin: top center;
+    }
+    @keyframes wave-tentacle {
+      from { transform: rotate(-5deg); }
+      to   { transform: rotate(5deg); }
+    }
+
+    /* Seaweed/Kelp waving in currents */
+    .seaweed {
+      animation: wave-grass 4s ease-in-out infinite alternate;
+      transform-origin: bottom center;
+    }
+    @keyframes wave-grass {
+      from { transform: skewX(-6deg) scaleY(0.98); }
+      to   { transform: skewX(6deg) scaleY(1.02); }
+    }
+
+    .coral-plant {
+      animation: wave-coral 6s ease-in-out infinite alternate;
+      transform-origin: bottom center;
+    }
+    @keyframes wave-coral {
+      from { transform: rotate(-3deg); }
+      to   { transform: rotate(3deg); }
+    }
+
+    .sea-fan {
+      animation: wave-fan 5s ease-in-out infinite alternate;
+      transform-origin: bottom center;
+    }
+    @keyframes wave-fan {
+      from { transform: scaleX(0.95) skewX(-2deg); }
+      to   { transform: scaleX(1.05) skewX(2deg); }
+    }
+
+    /* Bubbles rising animation */
+    .bubble {
+      animation: rise-bubble 5s linear infinite;
+    }
+    @keyframes rise-bubble {
+      0%   { transform: translateY(0px) translateX(0px); opacity: 0; }
+      10%  { opacity: 0.6; }
+      90%  { opacity: 0.6; }
+      100% { transform: translateY(-240px) translateX(15px); opacity: 0; }
+    }
+
+    /* Gold Sparkles */
+    .gold-sparkle {
+      animation: sparkle 2s ease-in-out infinite alternate;
+    }
+    @keyframes sparkle {
+      0% { opacity: 0.2; transform: scale(0.8); }
+      100% { opacity: 1; transform: scale(1.2); }
+    }
+
+    /* Bioluminescence nodes flashing */
+    .glow-node {
+      animation: biolum 4s ease-in-out infinite alternate;
+    }
+    @keyframes biolum {
+      0%   { opacity: 0.2; filter: brightness(0.6); }
+      100% { opacity: 1; filter: brightness(1.5); }
+    }
+  </style>
+</svg>
