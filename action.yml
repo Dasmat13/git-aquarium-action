@@ -1,0 +1,24 @@
+name: 'GitAquarium Action'
+description: 'Generate an animated SVG coral reef and aquarium from your GitHub contributions'
+author: 'Dasmat13'
+
+branding:
+  icon: 'anchor'
+  color: 'blue'
+
+inputs:
+  github_user_name:
+    description: 'GitHub username to generate aquarium for'
+    required: true
+    default: ${{ github.actor }}
+  github_token:
+    description: 'GitHub token for API access'
+    required: true
+  svg_out_path:
+    description: 'Output path for the animated SVG'
+    required: false
+    default: 'dist/aquarium.svg'
+
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
