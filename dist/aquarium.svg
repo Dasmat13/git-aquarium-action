@@ -4,11 +4,11 @@
      style="border-radius:12px;overflow:hidden;background:#031c20">
   <defs>
     <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#053040"/>
-      <stop offset="100%" stop-color="#021820"/>
+      <stop offset="0%"   stop-color="#0b2b40"/>
+      <stop offset="100%" stop-color="#051420"/>
     </linearGradient>
     <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#e6c875"/>
+      <stop offset="0%"   stop-color="#d5b885"/>
       <stop offset="100%" stop-color="#8c774b"/>
     </linearGradient>
     <filter id="glow">
@@ -326,10 +326,10 @@
       
   
         <g class="coral-plant" style="animation-delay:1.12s">
-          <circle cx="250.96153846153845" cy="217" r="7" fill="#e67e22"/>
-          <circle cx="246.96153846153845" cy="209" r="5" fill="#e67e22"/>
-          <circle cx="255.96153846153845" cy="205" r="4" fill="#e67e22"/>
-          <circle cx="250.96153846153845" cy="198" r="3" fill="#e67e22"/>
+          <circle cx="250.96153846153845" cy="217" r="7" fill="#2980b9"/>
+          <circle cx="246.96153846153845" cy="209" r="5" fill="#2980b9"/>
+          <circle cx="255.96153846153845" cy="205" r="4" fill="#2980b9"/>
+          <circle cx="250.96153846153845" cy="198" r="3" fill="#2980b9"/>
         </g>
       
   
@@ -377,7 +377,7 @@
         </g>
       
   
-        <polygon class="sea-fan" points="649.0384615384615,223 634.0384615384615,164 641.0384615384615,152 649.0384615384615,159 657.0384615384615,152 664.0384615384615,164" fill="#e67e22" opacity="0.85" 
+        <polygon class="sea-fan" points="649.0384615384615,223 634.0384615384615,164 641.0384615384615,152 649.0384615384615,159 657.0384615384615,152 664.0384615384615,164" fill="#2980b9" opacity="0.85" 
           style="animation-delay:7.40s"/>
       
   
@@ -553,13 +553,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 385 commits
+      🪸 Dasmat13's Aquarium · 412 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 2 stars · 7d streak
+      🐠 2 stars · 8d streak
     </text>
   </g>
 
