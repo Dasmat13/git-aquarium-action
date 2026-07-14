@@ -4,11 +4,11 @@
      style="border-radius:12px;overflow:hidden;background:#031c20">
   <defs>
     <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#053040"/>
-      <stop offset="100%" stop-color="#021820"/>
+      <stop offset="0%"   stop-color="#0b2b40"/>
+      <stop offset="100%" stop-color="#051420"/>
     </linearGradient>
     <linearGradient id="sand" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#e6c875"/>
+      <stop offset="0%"   stop-color="#d5b885"/>
       <stop offset="100%" stop-color="#8c774b"/>
     </linearGradient>
     <filter id="glow">
@@ -290,10 +290,10 @@
       
   
         <g class="coral-plant" style="animation-delay:0.24s">
-          <circle cx="60.57692307692307" cy="217" r="7" fill="#e67e22"/>
-          <circle cx="56.57692307692307" cy="209" r="5" fill="#e67e22"/>
-          <circle cx="65.57692307692307" cy="205" r="4" fill="#e67e22"/>
-          <circle cx="60.57692307692307" cy="198" r="3" fill="#e67e22"/>
+          <circle cx="60.57692307692307" cy="217" r="7" fill="#2980b9"/>
+          <circle cx="56.57692307692307" cy="209" r="5" fill="#2980b9"/>
+          <circle cx="65.57692307692307" cy="205" r="4" fill="#2980b9"/>
+          <circle cx="60.57692307692307" cy="198" r="3" fill="#2980b9"/>
         </g>
       
       <circle class="glow-node" cx="60.57692307692307" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
@@ -301,7 +301,7 @@
     
   
         <path class="seaweed" d="M 77.88461538461539,223 Q 72.88461538461539,202 77.88461538461539,181 T 82.88461538461539,171" 
-          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
+          fill="none" stroke="#2980b9" stroke-width="3.5" stroke-linecap="round" 
           style="animation-delay:0.40s"/>
       
   
@@ -464,10 +464,10 @@
   
   
         <g class="coral-plant" style="animation-delay:3.52s">
-          <circle cx="770.1923076923076" cy="217" r="7" fill="#e67e22"/>
-          <circle cx="766.1923076923076" cy="209" r="5" fill="#e67e22"/>
-          <circle cx="775.1923076923076" cy="205" r="4" fill="#e67e22"/>
-          <circle cx="770.1923076923076" cy="198" r="3" fill="#e67e22"/>
+          <circle cx="770.1923076923076" cy="217" r="7" fill="#2980b9"/>
+          <circle cx="766.1923076923076" cy="209" r="5" fill="#2980b9"/>
+          <circle cx="775.1923076923076" cy="205" r="4" fill="#2980b9"/>
+          <circle cx="770.1923076923076" cy="198" r="3" fill="#2980b9"/>
         </g>
       
       <circle class="glow-node" cx="770.1923076923076" cy="179" r="2" fill="#fff" filter="url(#glow)" />
@@ -502,11 +502,11 @@
     
   
         <path class="seaweed" d="M 822.1153846153846,223 Q 817.1153846153846,207 822.1153846153846,191 T 827.1153846153846,181" 
-          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
+          fill="none" stroke="#2980b9" stroke-width="3.5" stroke-linecap="round" 
           style="animation-delay:4.70s"/>
       
   
-        <polygon class="sea-fan" points="839.4230769230769,223 824.4230769230769,160 831.4230769230769,148 839.4230769230769,155 847.4230769230769,148 854.4230769230769,160" fill="#e67e22" opacity="0.85" 
+        <polygon class="sea-fan" points="839.4230769230769,223 824.4230769230769,160 831.4230769230769,148 839.4230769230769,155 847.4230769230769,148 854.4230769230769,160" fill="#2980b9" opacity="0.85" 
           style="animation-delay:9.60s"/>
       
   
@@ -544,18 +544,18 @@
   
         <g class="coral-plant" style="animation-delay:7.65s">
           <!-- Main trunk -->
-          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="189.4" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="178.6" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 891.3461538461538,197.8 Q 879.3461538461538,181 881.3461538461538,155.8" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 891.3461538461538,189.7 Q 879.3461538461538,167.5 881.3461538461538,134.2" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 891.3461538461538,189.4 Q 903.3461538461538,172.6 899.3461538461538,139" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 891.3461538461538,178.6 Q 903.3461538461538,156.4 899.3461538461538,112" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="884.3461538461538" y1="172.6" x2="877.3461538461538" y2="164.2" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
-          <line x1="897.3461538461538" y1="164.2" x2="903.3461538461538" y2="151.60000000000002" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="884.3461538461538" y1="156.4" x2="877.3461538461538" y2="145.3" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="897.3461538461538" y1="145.3" x2="903.3461538461538" y2="128.65" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="891.3461538461538" cy="155.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="883.3461538461538" cy="172.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="891.3461538461538" cy="134.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="883.3461538461538" cy="156.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
 
   <!-- Swimming fishes -->
@@ -610,13 +610,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 414 commits
+      🪸 Dasmat13's Aquarium · 469 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 2 stars · 10d streak
+      🐠 2 stars · 11d streak
     </text>
   </g>
 
