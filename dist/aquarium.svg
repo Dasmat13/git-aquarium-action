@@ -513,12 +513,8 @@
         </g>
       
   
-        <g class="coral-plant" style="animation-delay:4.08s">
-          <circle cx="891.3461538461538" cy="217" r="7" fill="#e67e22"/>
-          <circle cx="887.3461538461538" cy="209" r="5" fill="#e67e22"/>
-          <circle cx="896.3461538461538" cy="205" r="4" fill="#e67e22"/>
-          <circle cx="891.3461538461538" cy="198" r="3" fill="#e67e22"/>
-        </g>
+        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,160 883.3461538461538,148 891.3461538461538,155 899.3461538461538,148 906.3461538461538,160" fill="#9b59b6" opacity="0.85" 
+          style="animation-delay:10.20s"/>
       
 
   <!-- Swimming fishes -->
@@ -573,7 +569,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 542 commits
+      🪸 Dasmat13's Aquarium · 548 commits
     </text>
   </g>
   <g>
