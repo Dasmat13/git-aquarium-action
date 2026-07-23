@@ -560,18 +560,18 @@
   
         <g class="coral-plant" style="animation-delay:7.65s">
           <!-- Main trunk -->
-          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="191" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
+          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="188.6" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 891.3461538461538,199 Q 879.3461538461538,183 881.3461538461538,159" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 891.3461538461538,197.2 Q 879.3461538461538,180 881.3461538461538,154.2" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 891.3461538461538,191 Q 903.3461538461538,175 899.3461538461538,143" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 891.3461538461538,188.6 Q 903.3461538461538,171.4 899.3461538461538,137" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="884.3461538461538" y1="175" x2="877.3461538461538" y2="167" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
-          <line x1="897.3461538461538" y1="167" x2="903.3461538461538" y2="155" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="884.3461538461538" y1="171.4" x2="877.3461538461538" y2="162.8" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="897.3461538461538" y1="162.8" x2="903.3461538461538" y2="149.9" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="891.3461538461538" cy="159" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="883.3461538461538" cy="175" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="891.3461538461538" cy="154.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="883.3461538461538" cy="171.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
 
   <!-- Swimming fishes -->
@@ -641,13 +641,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 566 commits
+      🪸 Dasmat13's Aquarium · 597 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 10 stars · 19d streak
+      🐠 11 stars · 20d streak
     </text>
   </g>
 
