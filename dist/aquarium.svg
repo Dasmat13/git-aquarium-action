@@ -288,6 +288,9 @@
           <circle cx="8.653846153846153" cy="198" r="3" fill="#9b59b6"/>
         </g>
       
+      <circle class="glow-node" cx="8.653846153846153" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="0.6538461538461533" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <path class="seaweed" d="M 25.96153846153846,223 Q 20.96153846153846,202 25.96153846153846,181 T 30.96153846153846,171" 
           fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
@@ -315,6 +318,9 @@
           <circle cx="164.42307692307693" cy="198" r="3" fill="#2980b9"/>
         </g>
       
+      <circle class="glow-node" cx="164.42307692307693" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="156.42307692307693" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:0.80s">
           <circle cx="181.73076923076923" cy="217" r="7" fill="#e74c3c"/>
@@ -323,6 +329,9 @@
           <circle cx="181.73076923076923" cy="198" r="3" fill="#e74c3c"/>
         </g>
       
+      <circle class="glow-node" cx="181.73076923076923" cy="179" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="173.73076923076923" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <polygon class="sea-fan" points="199.03846153846152,223 184.03846153846152,160 191.03846153846152,148 199.03846153846152,155 207.03846153846152,148 214.03846153846152,160" fill="#f1c40f" opacity="0.85" 
           style="animation-delay:2.20s"/>
@@ -367,6 +376,9 @@
           <circle cx="562.5" cy="198" r="3" fill="#f1c40f"/>
         </g>
       
+      <circle class="glow-node" cx="562.5" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="554.5" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <polygon class="sea-fan" points="579.8076923076923,223 564.8076923076923,164 571.8076923076923,152 579.8076923076923,159 587.8076923076923,152 594.8076923076923,164" fill="#e74c3c" opacity="0.85" 
           style="animation-delay:6.60s"/>
@@ -389,6 +401,9 @@
           <line x1="620.4230769230769" y1="165.6" x2="626.4230769230769" y2="153.3" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="614.4230769230769" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="606.4230769230769" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:5.40s">
           <!-- Main trunk -->
@@ -402,6 +417,9 @@
           <line x1="637.7307692307693" y1="168.4" x2="643.7307692307693" y2="156.7" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="631.7307692307693" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="623.7307692307693" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:2.96s">
           <circle cx="649.0384615384615" cy="217" r="7" fill="#1abc9c"/>
@@ -410,6 +428,9 @@
           <circle cx="649.0384615384615" cy="198" r="3" fill="#1abc9c"/>
         </g>
       
+      <circle class="glow-node" cx="649.0384615384615" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="641.0384615384615" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:3.04s">
           <circle cx="666.3461538461538" cy="217" r="7" fill="#f1c40f"/>
@@ -418,6 +439,9 @@
           <circle cx="666.3461538461538" cy="198" r="3" fill="#f1c40f"/>
         </g>
       
+      <circle class="glow-node" cx="666.3461538461538" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="658.3461538461538" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:3.12s">
           <circle cx="683.6538461538462" cy="217" r="7" fill="#2980b9"/>
@@ -426,6 +450,9 @@
           <circle cx="683.6538461538462" cy="198" r="3" fill="#2980b9"/>
         </g>
       
+      <circle class="glow-node" cx="683.6538461538462" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="675.6538461538462" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
   
         <g class="coral-plant" style="animation-delay:3.28s">
@@ -435,6 +462,9 @@
           <circle cx="718.2692307692307" cy="198" r="3" fill="#9b59b6"/>
         </g>
       
+      <circle class="glow-node" cx="718.2692307692307" cy="179" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="710.2692307692307" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:3.36s">
           <circle cx="735.5769230769231" cy="217" r="7" fill="#1abc9c"/>
@@ -443,6 +473,9 @@
           <circle cx="735.5769230769231" cy="198" r="3" fill="#1abc9c"/>
         </g>
       
+      <circle class="glow-node" cx="735.5769230769231" cy="179" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="727.5769230769231" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:6.45s">
           <!-- Main trunk -->
@@ -456,6 +489,9 @@
           <line x1="758.8846153846154" y1="169.8" x2="764.8846153846154" y2="158.4" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="752.8846153846154" cy="162.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="744.8846153846154" cy="177.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <path class="seaweed" d="M 770.1923076923076,223 Q 765.1923076923076,207 770.1923076923076,191 T 775.1923076923076,181" 
           fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
@@ -478,6 +514,9 @@
           <line x1="810.8076923076923" y1="168.4" x2="816.8076923076923" y2="156.7" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="804.8076923076923" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="796.8076923076923" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:7.05s">
           <!-- Main trunk -->
@@ -491,6 +530,9 @@
           <line x1="828.1153846153846" y1="135.5" x2="834.1153846153846" y2="116.75" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="822.1153846153846" cy="123" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="814.1153846153846" cy="148" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:7.20s">
           <!-- Main trunk -->
@@ -504,6 +546,9 @@
           <line x1="845.4230769230769" y1="145.3" x2="851.4230769230769" y2="128.65" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="839.4230769230769" cy="134.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="831.4230769230769" cy="156.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:7.35s">
           <!-- Main trunk -->
@@ -517,6 +562,9 @@
           <line x1="862.7307692307692" y1="153" x2="868.7307692307692" y2="138" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="856.7307692307692" cy="143" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="848.7307692307692" cy="163" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:7.50s">
           <!-- Main trunk -->
@@ -530,6 +578,9 @@
           <line x1="880.0384615384615" y1="164.9" x2="886.0384615384615" y2="152.45" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="874.0384615384615" cy="156.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="866.0384615384615" cy="173.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:7.65s">
           <!-- Main trunk -->
@@ -543,6 +594,9 @@
           <line x1="897.3461538461538" y1="165.6" x2="903.3461538461538" y2="153.3" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
         </g>
       
+      <circle class="glow-node" cx="891.3461538461538" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="883.3461538461538" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
 
   <!-- Swimming fishes -->
   
@@ -611,13 +665,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 686 commits
+      🪸 Dasmat13's Aquarium · 691 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 12 stars · 0d streak
+      🐠 12 stars · 36d streak
     </text>
   </g>
 
