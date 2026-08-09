@@ -281,66 +281,75 @@
 
   <!-- Corals & Plants -->
   
-        <g class="coral-plant" style="animation-delay:0.00s">
-          <circle cx="8.653846153846153" cy="217" r="7" fill="#9b59b6"/>
-          <circle cx="4.653846153846153" cy="209" r="5" fill="#9b59b6"/>
-          <circle cx="13.653846153846153" cy="205" r="4" fill="#9b59b6"/>
-          <circle cx="8.653846153846153" cy="198" r="3" fill="#9b59b6"/>
-        </g>
+        <path class="seaweed" d="M 8.653846153846153,223 Q 3.6538461538461533,202 8.653846153846153,181 T 13.653846153846153,171" 
+          fill="none" stroke="#e74c3c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:0.00s"/>
       
-      <circle class="glow-node" cx="8.653846153846153" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="0.6538461538461533" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
-    
   
         <path class="seaweed" d="M 25.96153846153846,223 Q 20.96153846153846,202 25.96153846153846,181 T 30.96153846153846,171" 
           fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
           style="animation-delay:0.10s"/>
       
   
-        <path class="seaweed" d="M 43.26923076923077,223 Q 38.26923076923077,202 43.26923076923077,181 T 48.26923076923077,171" 
-          fill="none" stroke="#1abc9c" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:0.20s"/>
-      
   
-  
-        <polygon class="sea-fan" points="77.88461538461539,223 62.88461538461539,160 69.88461538461539,148 77.88461538461539,155 85.88461538461539,148 92.88461538461539,160" fill="#1abc9c" opacity="0.85" 
-          style="animation-delay:0.80s"/>
+        <polygon class="sea-fan" points="60.57692307692307,223 45.57692307692307,160 52.57692307692307,148 60.57692307692307,155 68.57692307692307,148 75.57692307692307,160" fill="#9b59b6" opacity="0.85" 
+          style="animation-delay:0.60s"/>
       
   
   
   
   
+  
+        <g class="coral-plant" style="animation-delay:0.64s">
+          <circle cx="147.1153846153846" cy="217" r="7" fill="#f1c40f"/>
+          <circle cx="143.1153846153846" cy="209" r="5" fill="#f1c40f"/>
+          <circle cx="152.1153846153846" cy="205" r="4" fill="#f1c40f"/>
+          <circle cx="147.1153846153846" cy="198" r="3" fill="#f1c40f"/>
+        </g>
+      
+      <circle class="glow-node" cx="147.1153846153846" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="139.1153846153846" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:0.72s">
-          <circle cx="164.42307692307693" cy="217" r="7" fill="#2980b9"/>
-          <circle cx="160.42307692307693" cy="209" r="5" fill="#2980b9"/>
-          <circle cx="169.42307692307693" cy="205" r="4" fill="#2980b9"/>
-          <circle cx="164.42307692307693" cy="198" r="3" fill="#2980b9"/>
+          <circle cx="164.42307692307693" cy="217" r="7" fill="#e67e22"/>
+          <circle cx="160.42307692307693" cy="209" r="5" fill="#e67e22"/>
+          <circle cx="169.42307692307693" cy="205" r="4" fill="#e67e22"/>
+          <circle cx="164.42307692307693" cy="198" r="3" fill="#e67e22"/>
         </g>
       
-      <circle class="glow-node" cx="164.42307692307693" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="156.42307692307693" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="164.42307692307693" cy="179" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="156.42307692307693" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:0.80s">
-          <circle cx="181.73076923076923" cy="217" r="7" fill="#e74c3c"/>
-          <circle cx="177.73076923076923" cy="209" r="5" fill="#e74c3c"/>
-          <circle cx="186.73076923076923" cy="205" r="4" fill="#e74c3c"/>
-          <circle cx="181.73076923076923" cy="198" r="3" fill="#e74c3c"/>
-        </g>
+        <polygon class="sea-fan" points="181.73076923076923,223 166.73076923076923,160 173.73076923076923,148 181.73076923076923,155 189.73076923076923,148 196.73076923076923,160" fill="#1abc9c" opacity="0.85" 
+          style="animation-delay:2.00s"/>
       
-      <circle class="glow-node" cx="181.73076923076923" cy="179" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="173.73076923076923" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
-    
   
-        <polygon class="sea-fan" points="199.03846153846152,223 184.03846153846152,160 191.03846153846152,148 199.03846153846152,155 207.03846153846152,148 214.03846153846152,160" fill="#f1c40f" opacity="0.85" 
+        <path class="seaweed" d="M 199.03846153846152,223 Q 194.03846153846152,207 199.03846153846152,191 T 204.03846153846152,181" 
+          fill="none" stroke="#2980b9" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:1.10s"/>
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+        <path class="seaweed" d="M 372.1153846153846,223 Q 367.1153846153846,207 372.1153846153846,191 T 377.1153846153846,181" 
+          fill="none" stroke="#1abc9c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:2.10s"/>
+      
+  
+        <path class="seaweed" d="M 389.42307692307685,223 Q 384.42307692307685,202 389.42307692307685,181 T 394.42307692307685,171" 
+          fill="none" stroke="#2980b9" stroke-width="3.5" stroke-linecap="round" 
           style="animation-delay:2.20s"/>
       
   
-        <path class="seaweed" d="M 216.34615384615384,223 Q 211.34615384615384,207 216.34615384615384,191 T 221.34615384615384,181" 
-          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:1.20s"/>
-      
   
   
   
@@ -349,76 +358,67 @@
   
   
   
-  
-  
-        <path class="seaweed" d="M 389.42307692307685,223 Q 384.42307692307685,207 389.42307692307685,191 T 394.42307692307685,181" 
-          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:2.20s"/>
-      
-  
-        <path class="seaweed" d="M 406.73076923076917,223 Q 401.73076923076917,202 406.73076923076917,181 T 411.73076923076917,171" 
-          fill="none" stroke="#e67e22" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:2.30s"/>
-      
-  
-  
-  
-  
-  
-  
-  
-  
-  
-        <g class="coral-plant" style="animation-delay:2.56s">
-          <circle cx="562.5" cy="217" r="7" fill="#f1c40f"/>
-          <circle cx="558.5" cy="209" r="5" fill="#f1c40f"/>
-          <circle cx="567.5" cy="205" r="4" fill="#f1c40f"/>
-          <circle cx="562.5" cy="198" r="3" fill="#f1c40f"/>
+        <g class="coral-plant" style="animation-delay:2.48s">
+          <circle cx="545.1923076923077" cy="217" r="7" fill="#1abc9c"/>
+          <circle cx="541.1923076923077" cy="209" r="5" fill="#1abc9c"/>
+          <circle cx="550.1923076923077" cy="205" r="4" fill="#1abc9c"/>
+          <circle cx="545.1923076923077" cy="198" r="3" fill="#1abc9c"/>
         </g>
       
-      <circle class="glow-node" cx="562.5" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="554.5" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="545.1923076923077" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="537.1923076923077" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <polygon class="sea-fan" points="579.8076923076923,223 564.8076923076923,164 571.8076923076923,152 579.8076923076923,159 587.8076923076923,152 594.8076923076923,164" fill="#e74c3c" opacity="0.85" 
-          style="animation-delay:6.60s"/>
+        <polygon class="sea-fan" points="562.5,223 547.5,164 554.5,152 562.5,159 570.5,152 577.5,164" fill="#e67e22" opacity="0.85" 
+          style="animation-delay:6.40s"/>
       
   
-        <path class="seaweed" d="M 597.1153846153846,223 Q 592.1153846153846,207 597.1153846153846,191 T 602.1153846153846,181" 
-          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:3.40s"/>
+        <path class="seaweed" d="M 579.8076923076923,223 Q 574.8076923076923,207 579.8076923076923,191 T 584.8076923076923,181" 
+          fill="none" stroke="#1abc9c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:3.30s"/>
       
+  
+        <g class="coral-plant" style="animation-delay:5.10s">
+          <!-- Main trunk -->
+          <line x1="597.1153846153846" y1="223" x2="597.1153846153846" y2="190.2" stroke="#2980b9" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 597.1153846153846,198.4 Q 585.1153846153846,182 587.1153846153846,157.39999999999998" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 597.1153846153846,190.2 Q 609.1153846153846,173.8 605.1153846153846,141" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="590.1153846153846" y1="173.8" x2="583.1153846153846" y2="165.6" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+          <line x1="603.1153846153846" y1="165.6" x2="609.1153846153846" y2="153.3" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+      <circle class="glow-node" cx="597.1153846153846" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="589.1153846153846" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:5.25s">
           <!-- Main trunk -->
-          <line x1="614.4230769230769" y1="223" x2="614.4230769230769" y2="190.2" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <line x1="614.4230769230769" y1="223" x2="614.4230769230769" y2="191.8" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 614.4230769230769,198.4 Q 602.4230769230769,182 604.4230769230769,157.39999999999998" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 614.4230769230769,199.6 Q 602.4230769230769,184 604.4230769230769,160.6" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 614.4230769230769,190.2 Q 626.4230769230769,173.8 622.4230769230769,141" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 614.4230769230769,191.8 Q 626.4230769230769,176.2 622.4230769230769,145" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="607.4230769230769" y1="173.8" x2="600.4230769230769" y2="165.6" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
-          <line x1="620.4230769230769" y1="165.6" x2="626.4230769230769" y2="153.3" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="607.4230769230769" y1="176.2" x2="600.4230769230769" y2="168.4" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="620.4230769230769" y1="168.4" x2="626.4230769230769" y2="156.7" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="614.4230769230769" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="606.4230769230769" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="614.4230769230769" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="606.4230769230769" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:5.40s">
-          <!-- Main trunk -->
-          <line x1="631.7307692307693" y1="223" x2="631.7307692307693" y2="191.8" stroke="#2980b9" stroke-width="3" stroke-linecap="round"/>
-          <!-- Left branch -->
-          <path d="M 631.7307692307693,199.6 Q 619.7307692307693,184 621.7307692307693,160.6" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
-          <!-- Right branch -->
-          <path d="M 631.7307692307693,191.8 Q 643.7307692307693,176.2 639.7307692307693,145" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
-          <!-- Small sub-branches -->
-          <line x1="624.7307692307693" y1="176.2" x2="617.7307692307693" y2="168.4" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
-          <line x1="637.7307692307693" y1="168.4" x2="643.7307692307693" y2="156.7" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+        <g class="coral-plant" style="animation-delay:2.88s">
+          <circle cx="631.7307692307693" cy="217" r="7" fill="#9b59b6"/>
+          <circle cx="627.7307692307693" cy="209" r="5" fill="#9b59b6"/>
+          <circle cx="636.7307692307693" cy="205" r="4" fill="#9b59b6"/>
+          <circle cx="631.7307692307693" cy="198" r="3" fill="#9b59b6"/>
         </g>
       
-      <circle class="glow-node" cx="631.7307692307693" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="623.7307692307693" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="631.7307692307693" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="623.7307692307693" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
         <g class="coral-plant" style="animation-delay:2.96s">
@@ -443,17 +443,17 @@
       <circle class="glow-node" cx="658.3461538461538" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:3.12s">
-          <circle cx="683.6538461538462" cy="217" r="7" fill="#2980b9"/>
-          <circle cx="679.6538461538462" cy="209" r="5" fill="#2980b9"/>
-          <circle cx="688.6538461538462" cy="205" r="4" fill="#2980b9"/>
-          <circle cx="683.6538461538462" cy="198" r="3" fill="#2980b9"/>
+  
+        <g class="coral-plant" style="animation-delay:3.20s">
+          <circle cx="700.9615384615385" cy="217" r="7" fill="#e74c3c"/>
+          <circle cx="696.9615384615385" cy="209" r="5" fill="#e74c3c"/>
+          <circle cx="705.9615384615385" cy="205" r="4" fill="#e74c3c"/>
+          <circle cx="700.9615384615385" cy="198" r="3" fill="#e74c3c"/>
         </g>
       
-      <circle class="glow-node" cx="683.6538461538462" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="675.6538461538462" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="700.9615384615385" cy="179" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="692.9615384615385" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
-  
   
         <g class="coral-plant" style="animation-delay:3.28s">
           <circle cx="718.2692307692307" cy="217" r="7" fill="#9b59b6"/>
@@ -466,136 +466,136 @@
       <circle class="glow-node" cx="710.2692307692307" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:3.36s">
-          <circle cx="735.5769230769231" cy="217" r="7" fill="#1abc9c"/>
-          <circle cx="731.5769230769231" cy="209" r="5" fill="#1abc9c"/>
-          <circle cx="740.5769230769231" cy="205" r="4" fill="#1abc9c"/>
-          <circle cx="735.5769230769231" cy="198" r="3" fill="#1abc9c"/>
-        </g>
-      
-      <circle class="glow-node" cx="735.5769230769231" cy="179" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="727.5769230769231" cy="190" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
-    
-  
-        <g class="coral-plant" style="animation-delay:6.45s">
+        <g class="coral-plant" style="animation-delay:6.30s">
           <!-- Main trunk -->
-          <line x1="752.8846153846154" y1="223" x2="752.8846153846154" y2="192.6" stroke="#2980b9" stroke-width="3" stroke-linecap="round"/>
+          <line x1="735.5769230769231" y1="223" x2="735.5769230769231" y2="192.6" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 752.8846153846154,200.2 Q 740.8846153846154,185 742.8846153846154,162.2" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 735.5769230769231,200.2 Q 723.5769230769231,185 725.5769230769231,162.2" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 752.8846153846154,192.6 Q 764.8846153846154,177.4 760.8846153846154,147" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 735.5769230769231,192.6 Q 747.5769230769231,177.4 743.5769230769231,147" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="745.8846153846154" y1="177.4" x2="738.8846153846154" y2="169.8" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
-          <line x1="758.8846153846154" y1="169.8" x2="764.8846153846154" y2="158.4" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+          <line x1="728.5769230769231" y1="177.4" x2="721.5769230769231" y2="169.8" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="741.5769230769231" y1="169.8" x2="747.5769230769231" y2="158.4" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="752.8846153846154" cy="162.2" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="744.8846153846154" cy="177.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="735.5769230769231" cy="162.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="727.5769230769231" cy="177.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <path class="seaweed" d="M 770.1923076923076,223 Q 765.1923076923076,207 770.1923076923076,191 T 775.1923076923076,181" 
-          fill="none" stroke="#9b59b6" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:4.40s"/>
+        <path class="seaweed" d="M 752.8846153846154,223 Q 747.8846153846154,207 752.8846153846154,191 T 757.8846153846154,181" 
+          fill="none" stroke="#e74c3c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:4.30s"/>
       
   
-        <polygon class="sea-fan" points="787.5,223 772.5,160 779.5,148 787.5,155 795.5,148 802.5,160" fill="#9b59b6" opacity="0.85" 
-          style="animation-delay:9.00s"/>
+        <polygon class="sea-fan" points="770.1923076923076,223 755.1923076923076,160 762.1923076923076,148 770.1923076923076,155 778.1923076923076,148 785.1923076923076,160" fill="#e74c3c" opacity="0.85" 
+          style="animation-delay:8.80s"/>
       
+  
+        <g class="coral-plant" style="animation-delay:6.75s">
+          <!-- Main trunk -->
+          <line x1="787.5" y1="223" x2="787.5" y2="191.8" stroke="#9b59b6" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 787.5,199.6 Q 775.5,184 777.5,160.6" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 787.5,191.8 Q 799.5,176.2 795.5,145" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="780.5" y1="176.2" x2="773.5" y2="168.4" stroke="#9b59b6" stroke-width="2" stroke-linecap="round"/>
+          <line x1="793.5" y1="168.4" x2="799.5" y2="156.7" stroke="#9b59b6" stroke-width="2" stroke-linecap="round"/>
+        </g>
+      
+      <circle class="glow-node" cx="787.5" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="779.5" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+    
   
         <g class="coral-plant" style="animation-delay:6.90s">
           <!-- Main trunk -->
-          <line x1="804.8076923076923" y1="223" x2="804.8076923076923" y2="191.8" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
+          <line x1="804.8076923076923" y1="223" x2="804.8076923076923" y2="173" stroke="#2980b9" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 804.8076923076923,199.6 Q 792.8076923076923,184 794.8076923076923,160.6" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 804.8076923076923,185.5 Q 792.8076923076923,160.5 794.8076923076923,123" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 804.8076923076923,191.8 Q 816.8076923076923,176.2 812.8076923076923,145" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 804.8076923076923,173 Q 816.8076923076923,148 812.8076923076923,98" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="797.8076923076923" y1="176.2" x2="790.8076923076923" y2="168.4" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
-          <line x1="810.8076923076923" y1="168.4" x2="816.8076923076923" y2="156.7" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="797.8076923076923" y1="148" x2="790.8076923076923" y2="135.5" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+          <line x1="810.8076923076923" y1="135.5" x2="816.8076923076923" y2="116.75" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="804.8076923076923" cy="160.6" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="796.8076923076923" cy="176.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="804.8076923076923" cy="123" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="796.8076923076923" cy="148" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
         <g class="coral-plant" style="animation-delay:7.05s">
           <!-- Main trunk -->
-          <line x1="822.1153846153846" y1="223" x2="822.1153846153846" y2="173" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <line x1="822.1153846153846" y1="223" x2="822.1153846153846" y2="178.6" stroke="#2980b9" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 822.1153846153846,185.5 Q 810.1153846153846,160.5 812.1153846153846,123" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 822.1153846153846,189.7 Q 810.1153846153846,167.5 812.1153846153846,134.2" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 822.1153846153846,173 Q 834.1153846153846,148 830.1153846153846,98" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 822.1153846153846,178.6 Q 834.1153846153846,156.4 830.1153846153846,112" fill="none" stroke="#2980b9" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="815.1153846153846" y1="148" x2="808.1153846153846" y2="135.5" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
-          <line x1="828.1153846153846" y1="135.5" x2="834.1153846153846" y2="116.75" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="815.1153846153846" y1="156.4" x2="808.1153846153846" y2="145.3" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
+          <line x1="828.1153846153846" y1="145.3" x2="834.1153846153846" y2="128.65" stroke="#2980b9" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="822.1153846153846" cy="123" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="814.1153846153846" cy="148" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="822.1153846153846" cy="134.2" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="814.1153846153846" cy="156.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
         <g class="coral-plant" style="animation-delay:7.20s">
           <!-- Main trunk -->
-          <line x1="839.4230769230769" y1="223" x2="839.4230769230769" y2="178.6" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <line x1="839.4230769230769" y1="223" x2="839.4230769230769" y2="183" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 839.4230769230769,189.7 Q 827.4230769230769,167.5 829.4230769230769,134.2" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 839.4230769230769,193 Q 827.4230769230769,173 829.4230769230769,143" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 839.4230769230769,178.6 Q 851.4230769230769,156.4 847.4230769230769,112" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 839.4230769230769,183 Q 851.4230769230769,163 847.4230769230769,123" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="832.4230769230769" y1="156.4" x2="825.4230769230769" y2="145.3" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
-          <line x1="845.4230769230769" y1="145.3" x2="851.4230769230769" y2="128.65" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="832.4230769230769" y1="163" x2="825.4230769230769" y2="153" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="845.4230769230769" y1="153" x2="851.4230769230769" y2="138" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="839.4230769230769" cy="134.2" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="831.4230769230769" cy="156.4" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="839.4230769230769" cy="143" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="831.4230769230769" cy="163" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
         <g class="coral-plant" style="animation-delay:7.35s">
           <!-- Main trunk -->
-          <line x1="856.7307692307692" y1="223" x2="856.7307692307692" y2="183" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <line x1="856.7307692307692" y1="223" x2="856.7307692307692" y2="189.8" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 856.7307692307692,193 Q 844.7307692307692,173 846.7307692307692,143" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 856.7307692307692,198.1 Q 844.7307692307692,181.5 846.7307692307692,156.6" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 856.7307692307692,183 Q 868.7307692307692,163 864.7307692307692,123" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 856.7307692307692,189.8 Q 868.7307692307692,173.2 864.7307692307692,140" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="849.7307692307692" y1="163" x2="842.7307692307692" y2="153" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
-          <line x1="862.7307692307692" y1="153" x2="868.7307692307692" y2="138" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="849.7307692307692" y1="173.2" x2="842.7307692307692" y2="164.9" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="862.7307692307692" y1="164.9" x2="868.7307692307692" y2="152.45" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="856.7307692307692" cy="143" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="848.7307692307692" cy="163" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="856.7307692307692" cy="156.6" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="848.7307692307692" cy="173.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
         <g class="coral-plant" style="animation-delay:7.50s">
           <!-- Main trunk -->
-          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="189.8" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
+          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="190.2" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 874.0384615384615,198.1 Q 862.0384615384615,181.5 864.0384615384615,156.6" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,198.4 Q 862.0384615384615,182 864.0384615384615,157.39999999999998" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 874.0384615384615,189.8 Q 886.0384615384615,173.2 882.0384615384615,140" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,190.2 Q 886.0384615384615,173.8 882.0384615384615,141" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="867.0384615384615" y1="173.2" x2="860.0384615384615" y2="164.9" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
-          <line x1="880.0384615384615" y1="164.9" x2="886.0384615384615" y2="152.45" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="867.0384615384615" y1="173.8" x2="860.0384615384615" y2="165.6" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="880.0384615384615" y1="165.6" x2="886.0384615384615" y2="153.3" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
-      <circle class="glow-node" cx="874.0384615384615" cy="156.6" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="866.0384615384615" cy="173.2" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="874.0384615384615" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="866.0384615384615" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:7.65s">
-          <!-- Main trunk -->
-          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="190.2" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
-          <!-- Left branch -->
-          <path d="M 891.3461538461538,198.4 Q 879.3461538461538,182 881.3461538461538,157.39999999999998" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
-          <!-- Right branch -->
-          <path d="M 891.3461538461538,190.2 Q 903.3461538461538,173.8 899.3461538461538,141" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
-          <!-- Small sub-branches -->
-          <line x1="884.3461538461538" y1="173.8" x2="877.3461538461538" y2="165.6" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
-          <line x1="897.3461538461538" y1="165.6" x2="903.3461538461538" y2="153.3" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+        <g class="coral-plant" style="animation-delay:4.08s">
+          <circle cx="891.3461538461538" cy="217" r="7" fill="#2980b9"/>
+          <circle cx="887.3461538461538" cy="209" r="5" fill="#2980b9"/>
+          <circle cx="896.3461538461538" cy="205" r="4" fill="#2980b9"/>
+          <circle cx="891.3461538461538" cy="198" r="3" fill="#2980b9"/>
         </g>
       
-      <circle class="glow-node" cx="891.3461538461538" cy="157.39999999999998" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="883.3461538461538" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
+      <circle class="glow-node" cx="891.3461538461538" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
+      <circle class="glow-node" cx="883.3461538461538" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
 
   <!-- Swimming fishes -->
@@ -656,6 +656,16 @@
       <circle cx="9" cy="-2" r="0.7" fill="#000000"/>
     </g>
   
+  
+      <g class="jellyfish" style="animation-duration:14s; animation-delay:6s; transform: translate(160px, 0px)">
+        <!-- Tentacles -->
+        <path class="tentacle" d="M -4,0 Q -6,15 -3,30" fill="none" stroke="rgba(186, 85, 211, 0.4)" stroke-width="1.5"/>
+        <path class="tentacle" d="M 0,0 Q 0,18 2,32" fill="none" stroke="rgba(238, 130, 238, 0.7)" stroke-width="1.5" style="animation-delay:0.3s"/>
+        <path class="tentacle" d="M 4,0 Q 6,15 3,30" fill="none" stroke="rgba(186, 85, 211, 0.4)" stroke-width="1.5" style="animation-delay:0.6s"/>
+        <!-- Bell / Body -->
+        <path d="M -8,0 C -8,-10 8,-10 8,0 Z" fill="rgba(238, 130, 238, 0.7)" filter="url(#glow)"/>
+      </g>
+    
 
   <!-- Seabed / Sand -->
   <path d="M 0,225 Q 225,217 450,225 T 900,225 L 900,260 L 0,260 Z" fill="url(#sand)"/>
@@ -665,13 +675,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 691 commits
+      🪸 Dasmat13's Aquarium · 702 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 12 stars · 36d streak
+      🐠 17 stars · 37d streak
     </text>
   </g>
 
