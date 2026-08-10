@@ -587,16 +587,9 @@
       <circle class="glow-node" cx="866.0384615384615" cy="173.8" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
     
   
-        <g class="coral-plant" style="animation-delay:4.08s">
-          <circle cx="891.3461538461538" cy="217" r="7" fill="#2980b9"/>
-          <circle cx="887.3461538461538" cy="209" r="5" fill="#2980b9"/>
-          <circle cx="896.3461538461538" cy="205" r="4" fill="#2980b9"/>
-          <circle cx="891.3461538461538" cy="198" r="3" fill="#2980b9"/>
-        </g>
+        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,154 883.3461538461538,142 891.3461538461538,149 899.3461538461538,142 906.3461538461538,154" fill="#f1c40f" opacity="0.85" 
+          style="animation-delay:10.20s"/>
       
-      <circle class="glow-node" cx="891.3461538461538" cy="183.8" r="2" fill="#fff" filter="url(#glow)" />
-      <circle class="glow-node" cx="883.3461538461538" cy="193.6" r="1.5" fill="#a3e4d7" filter="url(#glow)" style="animation-delay:0.7s"/>
-    
 
   <!-- Swimming fishes -->
   
@@ -675,13 +668,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 702 commits
+      🪸 Dasmat13's Aquarium · 700 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 17 stars · 37d streak
+      🐠 17 stars · 38d streak
     </text>
   </g>
 
