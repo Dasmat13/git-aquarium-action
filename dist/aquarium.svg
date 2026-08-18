@@ -533,20 +533,19 @@
   
         <g class="coral-plant" style="animation-delay:7.50s">
           <!-- Main trunk -->
-          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="185.4" stroke="#e74c3c" stroke-width="3" stroke-linecap="round"/>
+          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="185.8" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 874.0384615384615,194.8 Q 862.0384615384615,176 864.0384615384615,147.8" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,195.1 Q 862.0384615384615,176.5 864.0384615384615,148.6" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 874.0384615384615,185.4 Q 886.0384615384615,166.6 882.0384615384615,129" fill="none" stroke="#e74c3c" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,185.8 Q 886.0384615384615,167.2 882.0384615384615,130" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="867.0384615384615" y1="166.6" x2="860.0384615384615" y2="157.2" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
-          <line x1="880.0384615384615" y1="157.2" x2="886.0384615384615" y2="143.10000000000002" stroke="#e74c3c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="867.0384615384615" y1="167.2" x2="860.0384615384615" y2="157.9" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="880.0384615384615" y1="157.9" x2="886.0384615384615" y2="143.95" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
         </g>
       
   
-        <path class="seaweed" d="M 891.3461538461538,223 Q 886.3461538461538,202 891.3461538461538,181 T 896.3461538461538,171" 
-          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:5.10s"/>
+        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,157 883.3461538461538,145 891.3461538461538,152 899.3461538461538,145 906.3461538461538,157" fill="#1abc9c" opacity="0.85" 
+          style="animation-delay:10.20s"/>
       
 
   <!-- Swimming fishes -->
@@ -626,13 +625,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 771 commits
+      🪸 Dasmat13's Aquarium · 770 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 17 stars · 2d streak
+      🐠 17 stars · 0d streak
     </text>
   </g>
 
