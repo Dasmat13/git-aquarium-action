@@ -541,14 +541,14 @@
   
         <g class="coral-plant" style="animation-delay:7.50s">
           <!-- Main trunk -->
-          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="192.6" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <line x1="874.0384615384615" y1="223" x2="874.0384615384615" y2="186.6" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 874.0384615384615,200.2 Q 862.0384615384615,185 864.0384615384615,162.2" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,195.7 Q 862.0384615384615,177.5 864.0384615384615,150.2" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 874.0384615384615,192.6 Q 886.0384615384615,177.4 882.0384615384615,147" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 874.0384615384615,186.6 Q 886.0384615384615,168.4 882.0384615384615,132" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="867.0384615384615" y1="177.4" x2="860.0384615384615" y2="169.8" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
-          <line x1="880.0384615384615" y1="169.8" x2="886.0384615384615" y2="158.4" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="867.0384615384615" y1="168.4" x2="860.0384615384615" y2="159.3" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="880.0384615384615" y1="159.3" x2="886.0384615384615" y2="145.65" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
         </g>
       
   
@@ -633,7 +633,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 874 commits
+      🪸 Dasmat13's Aquarium · 903 commits
     </text>
   </g>
   <g>
