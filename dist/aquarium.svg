@@ -547,8 +547,17 @@
         </g>
       
   
-        <polygon class="sea-fan" points="856.7307692307692,223 841.7307692307692,164 848.7307692307692,152 856.7307692307692,159 864.7307692307692,152 871.7307692307692,164" fill="#2980b9" opacity="0.85" 
-          style="animation-delay:9.80s"/>
+        <g class="coral-plant" style="animation-delay:7.35s">
+          <!-- Main trunk -->
+          <line x1="856.7307692307692" y1="223" x2="856.7307692307692" y2="191.8" stroke="#e67e22" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 856.7307692307692,199.6 Q 844.7307692307692,184 846.7307692307692,160.6" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 856.7307692307692,191.8 Q 868.7307692307692,176.2 864.7307692307692,145" fill="none" stroke="#e67e22" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="849.7307692307692" y1="176.2" x2="842.7307692307692" y2="168.4" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+          <line x1="862.7307692307692" y1="168.4" x2="868.7307692307692" y2="156.7" stroke="#e67e22" stroke-width="2" stroke-linecap="round"/>
+        </g>
       
   
         <path class="seaweed" d="M 874.0384615384615,223 Q 869.0384615384615,207 874.0384615384615,191 T 879.0384615384615,181" 
@@ -638,7 +647,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 905 commits
+      🪸 Dasmat13's Aquarium · 929 commits
     </text>
   </g>
   <g>
