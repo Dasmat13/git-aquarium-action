@@ -565,9 +565,17 @@
           style="animation-delay:5.00s"/>
       
   
-        <path class="seaweed" d="M 891.3461538461538,223 Q 886.3461538461538,207 891.3461538461538,191 T 896.3461538461538,181" 
-          fill="none" stroke="#1abc9c" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:5.10s"/>
+        <g class="coral-plant" style="animation-delay:7.65s">
+          <!-- Main trunk -->
+          <line x1="891.3461538461538" y1="223" x2="891.3461538461538" y2="191.8" stroke="#9b59b6" stroke-width="3" stroke-linecap="round"/>
+          <!-- Left branch -->
+          <path d="M 891.3461538461538,199.6 Q 879.3461538461538,184 881.3461538461538,160.6" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Right branch -->
+          <path d="M 891.3461538461538,191.8 Q 903.3461538461538,176.2 899.3461538461538,145" fill="none" stroke="#9b59b6" stroke-width="2.5" stroke-linecap="round"/>
+          <!-- Small sub-branches -->
+          <line x1="884.3461538461538" y1="176.2" x2="877.3461538461538" y2="168.4" stroke="#9b59b6" stroke-width="2" stroke-linecap="round"/>
+          <line x1="897.3461538461538" y1="168.4" x2="903.3461538461538" y2="156.7" stroke="#9b59b6" stroke-width="2" stroke-linecap="round"/>
+        </g>
       
 
   <!-- Swimming fishes -->
@@ -647,7 +655,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 929 commits
+      🪸 Dasmat13's Aquarium · 938 commits
     </text>
   </g>
   <g>
