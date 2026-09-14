@@ -496,14 +496,14 @@
   
         <g class="coral-plant" style="animation-delay:6.60s">
           <!-- Main trunk -->
-          <line x1="770.1923076923076" y1="223" x2="770.1923076923076" y2="189.8" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
+          <line x1="770.1923076923076" y1="223" x2="770.1923076923076" y2="190.2" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 770.1923076923076,198.1 Q 758.1923076923076,181.5 760.1923076923076,156.6" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 770.1923076923076,198.4 Q 758.1923076923076,182 760.1923076923076,157.39999999999998" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 770.1923076923076,189.8 Q 782.1923076923076,173.2 778.1923076923076,140" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 770.1923076923076,190.2 Q 782.1923076923076,173.8 778.1923076923076,141" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="763.1923076923076" y1="173.2" x2="756.1923076923076" y2="164.9" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
-          <line x1="776.1923076923076" y1="164.9" x2="782.1923076923076" y2="152.45" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="763.1923076923076" y1="173.8" x2="756.1923076923076" y2="165.6" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="776.1923076923076" y1="165.6" x2="782.1923076923076" y2="153.3" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
   
@@ -568,6 +568,10 @@
           style="animation-delay:10.00s"/>
       
   
+        <path class="seaweed" d="M 891.3461538461538,223 Q 886.3461538461538,207 891.3461538461538,191 T 896.3461538461538,181" 
+          fill="none" stroke="#1abc9c" stroke-width="3.5" stroke-linecap="round" 
+          style="animation-delay:5.10s"/>
+      
 
   <!-- Swimming fishes -->
   
@@ -646,7 +650,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 936 commits
+      🪸 Dasmat13's Aquarium · 930 commits
     </text>
   </g>
   <g>
