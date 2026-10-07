@@ -480,14 +480,14 @@
   
         <g class="coral-plant" style="animation-delay:6.00s">
           <!-- Main trunk -->
-          <line x1="700.9615384615385" y1="223" x2="700.9615384615385" y2="183" stroke="#f1c40f" stroke-width="3" stroke-linecap="round"/>
+          <line x1="700.9615384615385" y1="223" x2="700.9615384615385" y2="183" stroke="#1abc9c" stroke-width="3" stroke-linecap="round"/>
           <!-- Left branch -->
-          <path d="M 700.9615384615385,193 Q 688.9615384615385,173 690.9615384615385,143" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 700.9615384615385,193 Q 688.9615384615385,173 690.9615384615385,143" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Right branch -->
-          <path d="M 700.9615384615385,183 Q 712.9615384615385,163 708.9615384615385,123" fill="none" stroke="#f1c40f" stroke-width="2.5" stroke-linecap="round"/>
+          <path d="M 700.9615384615385,183 Q 712.9615384615385,163 708.9615384615385,123" fill="none" stroke="#1abc9c" stroke-width="2.5" stroke-linecap="round"/>
           <!-- Small sub-branches -->
-          <line x1="693.9615384615385" y1="163" x2="686.9615384615385" y2="153" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
-          <line x1="706.9615384615385" y1="153" x2="712.9615384615385" y2="138" stroke="#f1c40f" stroke-width="2" stroke-linecap="round"/>
+          <line x1="693.9615384615385" y1="163" x2="686.9615384615385" y2="153" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
+          <line x1="706.9615384615385" y1="153" x2="712.9615384615385" y2="138" stroke="#1abc9c" stroke-width="2" stroke-linecap="round"/>
         </g>
       
   
@@ -561,7 +561,7 @@
           style="animation-delay:4.60s"/>
       
   
-        <polygon class="sea-fan" points="822.1153846153846,223 807.1153846153846,154 814.1153846153846,142 822.1153846153846,149 830.1153846153846,142 837.1153846153846,154" fill="#e67e22" opacity="0.85" 
+        <polygon class="sea-fan" points="822.1153846153846,223 807.1153846153846,157 814.1153846153846,145 822.1153846153846,152 830.1153846153846,145 837.1153846153846,157" fill="#2980b9" opacity="0.85" 
           style="animation-delay:9.40s"/>
       
   
@@ -663,7 +663,7 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 977 commits
+      🪸 Dasmat13's Aquarium · 974 commits
     </text>
   </g>
   <g>
