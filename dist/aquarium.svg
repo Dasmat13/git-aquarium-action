@@ -586,9 +586,8 @@
         </g>
       
   
-        <path class="seaweed" d="M 891.3461538461538,223 Q 886.3461538461538,202 891.3461538461538,181 T 896.3461538461538,171" 
-          fill="none" stroke="#f1c40f" stroke-width="3.5" stroke-linecap="round" 
-          style="animation-delay:5.10s"/>
+        <polygon class="sea-fan" points="891.3461538461538,223 876.3461538461538,164 883.3461538461538,152 891.3461538461538,159 899.3461538461538,152 906.3461538461538,164" fill="#e74c3c" opacity="0.85" 
+          style="animation-delay:10.20s"/>
       
 
   <!-- Swimming fishes -->
@@ -668,13 +667,13 @@
   <g>
     <rect x="8" y="8" width="220" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#fff" font-weight="bold">
-      🪸 Dasmat13's Aquarium · 999 commits
+      🪸 Dasmat13's Aquarium · 1002 commits
     </text>
   </g>
   <g>
     <rect x="772" y="8" width="120" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="778" y="22" font-family="monospace" font-size="10" fill="#a2f0ff">
-      🐠 22 stars · 6d streak
+      🐠 22 stars · 0d streak
     </text>
   </g>
 
